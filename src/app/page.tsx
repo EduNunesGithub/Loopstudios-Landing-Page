@@ -1,16 +1,6 @@
 const Home = () => (
   <main>
     Home
-
-    <p>Loren</p>
-    <p>Loren</p>
-    <p>Loren</p>
-    <p>Loren</p>
-    <p>Loren</p>
-    <p>Loren</p>
-    <p>Loren</p>
-    <p>Loren</p>
-
     <p>Loren</p>
     <p>Loren</p>
     <p>Loren</p>
@@ -39,7 +29,14 @@ const Home = () => (
     <p>Loren</p>
     <p>Loren</p>
     <p>Loren</p>
-    
+    <p>Loren</p>
+    <p>Loren</p>
+    <p>Loren</p>
+    <p>Loren</p>
+    <p>Loren</p>
+    <p>Loren</p>
+    <p>Loren</p>
+    <p>Loren</p>
   </main>
 );
 

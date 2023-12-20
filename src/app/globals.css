@@ -27,8 +27,8 @@
 }
 
 :root {
-  --scrollbar-thumb: #2F328Dff;
-  --scrollbar-track: #C7339Bff;
+  --scrollbar-thumb: #2f328dff;
+  --scrollbar-track: #c7339bff;
 }
 
 @media (max-width: 375px) {
