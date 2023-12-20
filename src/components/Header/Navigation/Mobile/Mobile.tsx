@@ -32,10 +32,14 @@ export const Mobile = () => {
   return (
     <>
       <button
-        className={twMerge("sm:flex", "md:hidden")}
+        aria-label="Open navigation dialog"
+        className={twMerge(
+          "sm:flex sm:h-5 sm:items-center sm:justify-center sm:justify-self-end sm:text-white sm:w-5",
+          "md:hidden",
+        )}
         onClick={() => setShow(true)}
       >
-        <Menu />
+        <Menu className="sm:h-5 sm:stroke-[0.125rem] sm:w-5" />
       </button>
 
       <Transition

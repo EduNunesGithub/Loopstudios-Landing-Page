@@ -6,7 +6,7 @@ import "@/app/globals.css";
 const josefinSans = Josefin_Sans({
   subsets: ["latin"],
   variable: "--josefin-sans",
-  weight: ["300"],
+  weight: ["300", "400"],
 });
 
 export const metadata: Metadata = {
