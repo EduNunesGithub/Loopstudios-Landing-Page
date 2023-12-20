@@ -33,6 +33,7 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "prettier": {
+    "endOfLine": "crlf",
     "experimentalTernaries": true,
     "singleAttributePerLine": true,
     "tabWidth": 2
