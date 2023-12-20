@@ -4,13 +4,13 @@ import { twMerge } from "tailwind-merge";
 import { Header } from "@/components/Header/Header";
 import "@/app/globals.css";
 
-export const alata = Alata({
+const alata = Alata({
   subsets: ["latin"],
   variable: "--alata",
   weight: ["400"],
 });
 
-export const josefinSans = Josefin_Sans({
+const josefinSans = Josefin_Sans({
   subsets: ["latin"],
   variable: "--josefin-sans",
   weight: ["300", "400"],
