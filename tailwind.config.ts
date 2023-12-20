@@ -5,6 +5,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
+        alata: "var(--alata)",
         "josefin-sans": "var(--josefin-sans)",
       },
       maxWidth: {

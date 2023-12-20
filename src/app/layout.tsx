@@ -1,9 +1,16 @@
 import type { Metadata } from "next";
-import { Josefin_Sans } from "next/font/google";
+import { Alata, Josefin_Sans } from "next/font/google";
+import { twMerge } from "tailwind-merge";
 import { Header } from "@/components/Header/Header";
 import "@/app/globals.css";
 
-const josefinSans = Josefin_Sans({
+export const alata = Alata({
+  subsets: ["latin"],
+  variable: "--alata",
+  weight: ["400"],
+});
+
+export const josefinSans = Josefin_Sans({
   subsets: ["latin"],
   variable: "--josefin-sans",
   weight: ["300", "400"],
@@ -16,7 +23,13 @@ export const metadata: Metadata = {
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => (
   <html lang="en">
-    <body className="sm:grid sm:grid-cols-1 sm:grid-rows-[auto_1fr_auto] sm:min-h-screen sm:w-full">
+    <body
+      className={twMerge(
+        "sm:grid sm:grid-cols-1 sm:grid-rows-[auto_1fr_auto] sm:min-h-screen sm:w-full",
+        alata.variable,
+        josefinSans.variable,
+      )}
+    >
       <Header />
 
       {children}

@@ -51,13 +51,16 @@ export const Header = () => {
       ref={refHeader}
     >
       <div
-        className="sm:fixed sm:flex sm:px-6 sm:top-0 sm:w-full sm:z-20"
+        className={twMerge(
+          "sm:duration-standard sm:ease-standard sm:fixed sm:flex sm:px-6 sm:top-0 sm:transition-[backdrop-filter,background-color] sm:w-full sm:z-20",
+          collapse === true && "sm:backdrop-blur-[1rem] sm:bg-[#251c2abf]",
+        )}
         ref={refNav}
       >
         <div
           className={twMerge(
             "sm:duration-standard sm:ease-standard sm:gap-6 sm:grid sm:grid-cols-[auto_1fr] sm:items-center sm:max-w-page-container sm:mx-auto sm:py-10 sm:transition-[padding-top,padding-bottom] sm:w-full",
-            collapse === true && "md:py-10",
+            collapse === true && "md:py-6",
             collapse === false && "md:py-16",
           )}
         >
