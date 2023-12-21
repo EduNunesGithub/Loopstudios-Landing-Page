@@ -1,0 +1,66 @@
+[
+  {
+    "image": {
+      "alt": "View of Earth from space, covered in clouds.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118920/Loopstudios%20Landing%20Page/yrwvlv8ydcjmmjw3rsj2.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118920/Loopstudios%20Landing%20Page/ykpurrlu88onuddwrary.jpg"
+    },
+    "title": "<span>DEEP<br>EARTH</span>"
+  },
+  {
+    "image": {
+      "alt": "A pinball machine with vibrant neon lights and a glowing neon sign.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/tgizd6ljitxq70k6sxlg.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/vrkfocr9ipb7dmuzckyx.jpg"
+    },
+    "title": "<span>NIGHT<br>ARCADE</span>"
+  },
+  {
+    "image": {
+      "alt": "A young man in a red soccer uniform chasing a soccer ball on a field.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/vggh5fyvzrpowh7npeo9.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/khcxk4cix6jsvkowj2we.jpg"
+    },
+    "title": "<span>SOCCER TEAM<br>VR</span>"
+  },
+  {
+    "image": {
+      "alt": "Race car with 'Mobil' written on the back end, showcasing sleek design and aerodynamic features.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/vktgu8iyj9mhbkahaamx.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/rbtkjgaqo296x1kdghyj.jpg"
+    },
+    "title": "<span>THE<br>GRID</span>"
+  },
+  {
+    "image": {
+      "alt": "Aerial view of a winding road, surrounded by lush greenery, leading through a picturesque landscape.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118920/Loopstudios%20Landing%20Page/syjll45xntrzr84ezoql.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/jjfweqjjo7x7df6wq6uq.jpg"
+    },
+    "title": "<span>FROM UP<br>ABOVE VR</span>"
+  },
+  {
+    "image": {
+      "alt": "A breathtaking view of the aurora borealis illuminating the night sky above a majestic mountain range.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/rtphsjfasdtbq7evkgih.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/bsji0yzq3icnfs63olkg.jpg"
+    },
+    "title": "<span>POCKET<br>BOREALIS</span>"
+  },
+  {
+    "image": {
+      "alt": "An artist's rendering of the Mars rover, showcasing its advanced technology and exploration capabilities.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118920/Loopstudios%20Landing%20Page/ll1ssqes3vy5fwqezkys.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118920/Loopstudios%20Landing%20Page/lrc7tdc14hphimjtfn4x.jpg"
+    },
+    "title": "<span>THE<br>CURIOSITY</span>"
+  },
+  {
+    "image": {
+      "alt": "A panoramic view of a serene lake surrounded by a vast sky, captured in a 360-degree perspective.",
+      "desktop": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118920/Loopstudios%20Landing%20Page/h5xzwyemhyhs21lhuiia.jpg",
+      "mobile": "https://res.cloudinary.com/dp4t6ewdz/image/upload/v1703118921/Loopstudios%20Landing%20Page/femhzjfntzcenkqxqbir.jpg"
+    },
+    "title": "<span>MAKE IT<br>FISHEYE</span>"
+  }
+]

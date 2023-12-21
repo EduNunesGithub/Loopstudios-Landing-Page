@@ -18,10 +18,10 @@ export const Seo = () => (
       <Image
         alt="A man immersed in virtual reality with a headset on, experiencing a simulated environment."
         className="sm:bg-[#705294] sm:contrast-100 sm:h-full sm:object-cover sm:-scale-x-100 sm:w-full"
-        height={500}
+        fill
         placeholder="blur"
+        sizes="(min-width: 907.5px) 50.6945vw, (min-width: 0px) 87.2vw"
         src={imgBannerSeo}
-        width={730}
       />
     </div>
 
@@ -40,7 +40,7 @@ export const Seo = () => (
         The leader in interactive VR
       </h2>
 
-      <p className="sm:font-alata sm:font-normal sm:text-[#00000080] sm:text-[0.9375rem] sm:leading-[1.5625rem]">
+      <p className="sm:font-alata sm:font-normal sm:text-[#000000bf] sm:text-[0.9375rem] sm:leading-[1.5625rem]">
         Founded in 2011, Loopstudios has been producing world-class virtual
         reality projects for some of the best companies around the globe. Our
         award-winning creations have transformed businesses through digital

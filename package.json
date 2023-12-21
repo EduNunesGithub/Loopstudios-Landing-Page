@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
+    "@plaiceholder/next": "^3.0.0",
     "lucide-react": "^0.298.0",
     "next": "14.0.4",
+    "plaiceholder": "^3.0.0",
     "react": "^18",
     "react-dom": "^18",
+    "sharp": "^0.33.1",
     "tailwind-merge": "^2.1.0"
   },
   "devDependencies": {

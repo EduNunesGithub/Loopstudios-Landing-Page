@@ -59,9 +59,9 @@ export const Header = () => {
       >
         <div
           className={twMerge(
-            "sm:duration-standard sm:ease-standard sm:gap-6 sm:grid sm:grid-cols-[auto_1fr] sm:items-center sm:max-w-page-container sm:mx-auto sm:py-10 sm:transition-[padding-top,padding-bottom] sm:w-full",
-            collapse === true && "md:py-6",
-            collapse === false && "md:py-16",
+            "sm:duration-standard sm:ease-standard sm:gap-6 sm:grid sm:grid-cols-[auto_1fr] sm:items-center sm:max-w-page-container sm:mx-auto sm:transition-[padding-top,padding-bottom] sm:w-full",
+            collapse === true && "sm:py-6 md:py-6",
+            collapse === false && "sm:py-10 md:py-16",
           )}
         >
           <Link
